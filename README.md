@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning cloud and DevOps
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about anything with Technical
-- 😄 Pronouns: Poo-juh!! 
+- 😄 Pronouns: she/hers 
 - ⚡ Fun fact: Enjoys cooking, coding & learning about new technologies. 
 
 <!--
