@@ -3,7 +3,6 @@
 - 🔭 I’m currently working with Steris and as a side hustle starting to work on Open issues on GIT
 - 🌱 I’m currently learning cloud and DevOps
 - 👯 I’m looking to collaborate on Open source projects
-- 💬 Ask me about anything with Technical
 - 😄 Pronouns: she/hers 
 - ⚡ Fun fact: Enjoys cooking, coding & learning about new technologies. 
 
